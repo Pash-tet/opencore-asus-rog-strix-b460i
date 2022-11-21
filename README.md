@@ -1,4 +1,4 @@
-## Hardware
+## Asus ROG STRIX B460-I OpenCore config
 
 * Case: Aerocool Cylon Mini
 * Motherboard: Asus ROG STRIX B460-I
